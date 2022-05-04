@@ -2,7 +2,7 @@
 
 
 
-{{< button href="http://www.digitalhumanities.org/dhq/submissions/cfps.html">}}
+{{< button href="http://www.digitalhumanities.org/dhq/submissions/cfps.html" >}}
 {{< icon "link" >}} Go to DHQ
 {{< /button >}}
 
