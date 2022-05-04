@@ -1,10 +1,16 @@
 # Call for Proposals
 
-## *DHQ Special Issue* <br> Working on and with Categories for Text Analysis: Challenges and Findings from and for Digital Humanities Practices
+
+
+{{< button href="http://www.digitalhumanities.org/dhq/submissions/cfps.html">}}
+{{< icon "link" >}} Go to DHQ
+{{< /button >}}
+
+## *Digital Humanities Quarterly Special Issue* <br> Working on and with Categories for Text Analysis: Challenges and Findings from and for Digital Humanities Practices
 
 Guest Editors: Dominik Gerstorfer, Evelyn Gius and Janina Jacke 
 
-Proposals due: 2022-06-15 
+Proposals due: 2022-06-15
 
 ## Introduction
 
