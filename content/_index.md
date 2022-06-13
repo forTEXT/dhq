@@ -8,7 +8,7 @@
 
 Guest Editors: Dominik Gerstorfer, Evelyn Gius and Janina Jacke 
 
-Proposals due: 2022-06-15
+Proposals due: ~~2022-06-15~~ 2022-06-22
 
 ## Introduction
 
@@ -53,7 +53,7 @@ Full papers can be one of the following:
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  |
 |--|--|
 | 2022-05-01 |	Call for Proposals for the Special Issue is open |
-| 2022-06-15 | 	Proposals due (750 words + indication of intended DHQ submission format).<br> Submit through dhq@fortext.org |
+| 2022-06-22 | 	Proposals due (750 words + indication of intended DHQ submission format).<br> Submit through dhq@fortext.org |
 | 2022-07-01 |	Notification of acceptance of proposals sent to authors |
 | 2022-11-25 |	Full papers due (3,000-8,000 words); submit manuscripts to DHQ: http://www.digitalhumanities.org/dhq/submissions/index.html.<br> (N.B. Acceptance of invited papers will depend on the review process.) |
 | 2023-03-03 |	Notification of acceptance of manuscripts + revision requests |
