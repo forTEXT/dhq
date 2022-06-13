@@ -44,7 +44,7 @@ Full papers can be one of the following:
 
 1. Articles: Article-length pieces describing original research.
 2. Case Studies: Detailed critical analyses of specific projects that contextualize the project within the DH field, and demonstrate its significance for other practitioners
-3 . Issues in Digital Humanities: Substantive, provocative opinion-driven essays of any length. (Except in special cases, we don’t expect to have these in a special issue.)
+3. Issues in Digital Humanities: Substantive, provocative opinion-driven essays of any length. (Except in special cases, we don’t expect to have these in a special issue.)
 4. Reviews: Reviews of other publications (digital or print), tools, artworks, conferences, and other relevant material. (Except in special cases, we don’t expect to have these in a special issue.)
 
 
